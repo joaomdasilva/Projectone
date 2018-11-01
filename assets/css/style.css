@@ -1,0 +1,15 @@
+
+element.style {
+}
+
+.font-size:900px;
+font-family:Arial;
+color: #ff0000;
+font-weight:800;
+font-style:italic; 
+text-decoration:underline;
+line-height:2em;
+letter-spacing:-2px;
+text-align:justify;
+text-transform:capitalize;
+}
